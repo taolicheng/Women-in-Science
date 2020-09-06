@@ -34,6 +34,10 @@
 
 ## References
 
+### Books
+* [The Second Sex](https://books.google.ca/books/about/The_Second_Sex.html?id=OgMbKqJMzxcC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Simone De Beauvoir
+
+### Articles
 * https://www.nationalacademies.org/news/2018/06/to-prevent-sexual-harassment-academic-institutions-should-go-beyond-legal-compliance-to-promote-a-change-in-culture-current-approaches-have-not-led-to-decline-in-harassment
 
 #### Media
