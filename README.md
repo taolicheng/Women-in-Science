@@ -2,6 +2,12 @@
 
 ## Interviews and Analyses
 
+### Objectives
+
+* talk about your experiences
+* provide solutions/trials you have made
+* suggest further strategies
+
 ## Tips
 
 * Sharing is enpowring. Simply sharing experiences with colleagues or experienced professionals helps to overcome difficult situations.
