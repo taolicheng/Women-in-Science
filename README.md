@@ -37,6 +37,7 @@
 ## Media
 
 * _Picture a Scientist_, http://wise.nautil.us/feature/611/the-problem-in-the-lab?mc_cid=b380552a03&mc_eid=6c684bf2ed
+* [Picture a Scientist, Panel Discussion, Coolidge Corner Theatre](https://www.youtube.com/watch?v=4i33BXH3zM4&ab_channel=thecoolidge)
 
 ## Educational Resources Regarding Research
 
