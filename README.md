@@ -1,8 +1,19 @@
 # Women-in-Science
-
 > - Seek for novel solutions. 
 > - Turn the echo chamber into real communication and education.
 > - Educate instead of propaganda
+
+- [Existing Problems](#existing-problems)
+- [Interviews and Analyses](#interviews-and-analyses)
+  * [Objectives](#objectives)
+- [Organizations and Programs](#organizations-and-programs)
+- [Seeking for Better Solutions](#seeking-for-better-solutions)
+  * [Data-driven Approaches](#data-driven-approaches)
+- [References](#references)
+  * [Books](#books)
+  * [Articles](#articles)
+  * [Media](#media)
+- [Educational Resources Regarding Research Life](#educational-resources-regarding-research-life)
 
 ## Existing Problems
  
@@ -34,10 +45,10 @@
 
 ## References
 
-### Books
+#### Books
 * [The Second Sex](https://books.google.ca/books/about/The_Second_Sex.html?id=OgMbKqJMzxcC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Simone De Beauvoir
 
-### Articles
+#### Articles
 * https://www.nationalacademies.org/news/2018/06/to-prevent-sexual-harassment-academic-institutions-should-go-beyond-legal-compliance-to-promote-a-change-in-culture-current-approaches-have-not-led-to-decline-in-harassment
 
 #### Media
