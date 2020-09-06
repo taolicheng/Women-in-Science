@@ -1,5 +1,12 @@
 # Women-in-Science
 
+## Existing Problems
+ 
+* Power imbalance 
+* Invisible discrimination
+* unconscious biases
+ 
+
 ## Interviews and Analyses
 
 ### Objectives
