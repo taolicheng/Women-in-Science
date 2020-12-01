@@ -1,7 +1,7 @@
 # Women-in-Science (WinS)
-> - Seek for novel solutions. 
-> - Turn the echo chamber into real communication and education.
-> - Educate instead of propaganda
+> - Seek for novel solutions
+> - Turn the echo chamber into real communication and education
+> - Education instead of propaganda
 
 - [Existing Problems](#existing-problems)
 - [Interviews and Analyses](#interviews-and-analyses)
