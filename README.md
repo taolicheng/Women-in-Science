@@ -47,12 +47,14 @@
 ## References
 
 #### Books
+* [Invisible Women: Exposing Data Bias in a World Designed for Men](https://books.google.ca/books/about/Invisible_Women.html?id=GdmEDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Caroline Criado-Perez
 * [The Second Sex](https://books.google.ca/books/about/The_Second_Sex.html?id=OgMbKqJMzxcC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Simone De Beauvoir
 
-#### Articles
-* https://www.nationalacademies.org/news/2018/06/to-prevent-sexual-harassment-academic-institutions-should-go-beyond-legal-compliance-to-promote-a-change-in-culture-current-approaches-have-not-led-to-decline-in-harassment
+#### Online Courses
+* [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai)
 
 #### Media
+* https://www.nationalacademies.org/news/2018/06/to-prevent-sexual-harassment-academic-institutions-should-go-beyond-legal-compliance-to-promote-a-change-in-culture-current-approaches-have-not-led-to-decline-in-harassment
 * _Picture a Scientist_, http://wise.nautil.us/feature/611/the-problem-in-the-lab?mc_cid=b380552a03&mc_eid=6c684bf2ed
 * [Picture a Scientist, Panel Discussion, Coolidge Corner Theatre](https://www.youtube.com/watch?v=4i33BXH3zM4&ab_channel=thecoolidge)
 
