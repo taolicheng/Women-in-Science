@@ -1,4 +1,5 @@
 # Women-in-Science (WinS)
+> - Bring awareness
 > - Seek for novel solutions
 > - Turn the echo chamber into real communication and education
 > - Education instead of propaganda
