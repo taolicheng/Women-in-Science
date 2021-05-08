@@ -3,6 +3,7 @@
 > - Seek for novel solutions
 > - Turn the echo chamber into real communication and education
 > - Education instead of propaganda
+> - Collective Story-telling
 
 - [Existing Problems](#existing-problems)
 - [Interviews and Analyses](#interviews-and-analyses)
