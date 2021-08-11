@@ -48,6 +48,7 @@
 ## References
 
 #### Books
+* [Women and Leadership](https://books.google.ca/books/about/HBR_s_10_Must_Reads_on_Women_and_Leaders.html?id=spNlDwAAQBAJ&source=kp_book_description&redir_esc=y)
 * [Invisible Women: Exposing Data Bias in a World Designed for Men](https://books.google.ca/books/about/Invisible_Women.html?id=GdmEDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Caroline Criado-Perez
 * [The Second Sex](https://books.google.ca/books/about/The_Second_Sex.html?id=OgMbKqJMzxcC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), by Simone De Beauvoir
 
