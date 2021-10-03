@@ -60,6 +60,7 @@
 * https://www.nationalacademies.org/news/2018/06/to-prevent-sexual-harassment-academic-institutions-should-go-beyond-legal-compliance-to-promote-a-change-in-culture-current-approaches-have-not-led-to-decline-in-harassment
 * _Picture a Scientist_, http://wise.nautil.us/feature/611/the-problem-in-the-lab?mc_cid=b380552a03&mc_eid=6c684bf2ed
 * [Picture a Scientist, Panel Discussion, Coolidge Corner Theatre](https://www.youtube.com/watch?v=4i33BXH3zM4&ab_channel=thecoolidge)
+* [Bullying in Academia](https://www.youtube.com/watch?v=aIxOhXl8pmg&ab_channel=ScienceRehashed)
 
 ## Educational Resources Regarding Research Life
 
