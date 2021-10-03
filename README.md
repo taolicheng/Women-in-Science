@@ -34,6 +34,7 @@
 ## Organizations and Programs
 
 * [Women in Machine Learning (WiML)](https://wimlworkshop.org/)
+* [PARITY MOVEMENT](https://paritymovement.org/) (focusing on academic bullying)
 
 ## Seeking for Better Solutions
 
