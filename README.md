@@ -64,6 +64,7 @@
 
 ## Educational Resources Regarding Research Life
 
+* Effective Teamwork: https://rework.withgoogle.com/print/guides/5721312655835136/ 
 * How to Protect the Intellectual Property
 * Definition of Workplace Harassment
 
