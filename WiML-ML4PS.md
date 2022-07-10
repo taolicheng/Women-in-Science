@@ -1,4 +1,4 @@
-### ICML WiML Un-workshop Breakout: Machine Learning for Physical Sciences
+### 2022 ICML WiML [Un-workshop](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/) Breakout: Machine Learning for Physical Sciences
 
 #### Objectives
 
