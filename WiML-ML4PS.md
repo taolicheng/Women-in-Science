@@ -4,3 +4,15 @@
 
 #### Agenda
 ![](assets/ML4PS-agenda.png)
+
+#### Topics
+* Successful applications: domain-specific architectures, generative modelling, etc. 
+* Challenges and opportunities: when do deep models fail? What are the obstacles in the workflow? 
+* As women researchers, what obstacles did you face? What support would you like to have in order to advance your careers?
+
+#### Community Development
+
+#### References
+
+* Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
+* https://github.com/taolicheng/DL4Physics
