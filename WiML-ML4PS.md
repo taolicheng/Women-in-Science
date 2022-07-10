@@ -3,4 +3,4 @@
 #### Objectives
 
 #### Agenda
-
+![](assets/ML4PS-agenda.png)
