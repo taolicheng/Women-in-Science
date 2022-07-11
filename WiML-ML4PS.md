@@ -16,3 +16,7 @@
 
 * Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
 * https://github.com/taolicheng/DL4Physics
+
+#### Code of Conduct
+* EDI (Equity, Diversity, and Inclusion) Principles:
+* 
