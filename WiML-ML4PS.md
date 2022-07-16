@@ -14,7 +14,7 @@
 
 #### Community Development
 
-* Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
+* :point_right: Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
 
 #### References
 
