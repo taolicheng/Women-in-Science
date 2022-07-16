@@ -3,7 +3,7 @@
 #### Objectives
 
 #### Agenda
-[*Zoom Meeting Room*](https://umontreal.zoom.us/j/87026523803?pwd=N2xDVUpyanRIVTNsbThnY0QyTmdMUT09)
+[**Zoom Meeting Room**](https://umontreal.zoom.us/j/87026523803?pwd=N2xDVUpyanRIVTNsbThnY0QyTmdMUT09)
 
 ![](assets/ML4PS-agenda.png)
 
@@ -14,7 +14,7 @@
 
 #### Community Development
 
-* :point_right: Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
+:point_right: Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
 
 #### References
 
