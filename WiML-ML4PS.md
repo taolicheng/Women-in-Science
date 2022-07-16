@@ -1,8 +1,8 @@
 ### 2022 ICML WiML [Un-workshop](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/) Breakout: Machine Learning for Physical Sciences
 
-#### Objectives
+### Objectives
 
-#### Agenda
+### Agenda
 
 **Date**: July 18, 3:25 pm EDT
 
@@ -15,15 +15,15 @@
 * Challenges and opportunities: when do deep models fail? What are the obstacles in the workflow? 
 * As women researchers, what obstacles did you face? What support would you like to have in order to advance your careers?
 
-#### Community Development
+### Community Development
 
 :point_right: Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
 
-#### References
+### References
 
 * Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
 * https://github.com/taolicheng/DL4Physics
 
-#### Code of Conduct
+### Code of Conduct
 * EDI (Equity, Diversity, and Inclusion) Principles:
 * 
