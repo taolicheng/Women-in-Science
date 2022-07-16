@@ -3,6 +3,8 @@
 #### Objectives
 
 #### Agenda
+[*Zoom Meeting Room*](https://umontreal.zoom.us/j/87026523803?pwd=N2xDVUpyanRIVTNsbThnY0QyTmdMUT09)
+
 ![](assets/ML4PS-agenda.png)
 
 #### Topics
