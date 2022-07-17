@@ -22,6 +22,8 @@ Machine learning techniques have been adopted for data selection, data simulatio
 
 :point_right: Join [WiML-ML4PS Google Group](https://groups.google.com/g/wiml-ml4ps)
 
+:point_right: Join [WiML-ML4PS Slack](https://join.slack.com/t/wiml-ml4ps/shared_invite/zt-1cmcup44z-siMKjDq2I8tFTaADZGmxfA)
+
 ### References
 
 [1] Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
