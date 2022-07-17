@@ -1,4 +1,4 @@
-<img align="middle" src="https://user-images.githubusercontent.com/7528451/179375181-a9237bc2-db59-4755-9f95-562583544dd8.png" width="200"/> <img align="middle" src="https://user-images.githubusercontent.com/7528451/179375185-7d340f09-2318-46ef-b18a-53b1cbcacafa.png" width="150"/>
+<img align="middle" src="https://user-images.githubusercontent.com/7528451/179375181-a9237bc2-db59-4755-9f95-562583544dd8.png" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <img align="middle" src="https://user-images.githubusercontent.com/7528451/179375185-7d340f09-2318-46ef-b18a-53b1cbcacafa.png" width="150"/>
 
 ## 2022 ICML WiML [Un-workshop](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/) Breakout: Machine Learning for Physical Sciences
 
