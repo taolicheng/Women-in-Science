@@ -9,7 +9,7 @@ Machine learning techniques have been adopted for data selection, data simulatio
 
 **Date**: July 18, 3:25 pm EDT
 
-[**Zoom Meeting Room**](https://umontreal.zoom.us/j/87026523803?pwd=N2xDVUpyanRIVTNsbThnY0QyTmdMUT09)
+:point_right: [**Zoom Meeting Room**](https://umontreal.zoom.us/j/87026523803?pwd=N2xDVUpyanRIVTNsbThnY0QyTmdMUT09)
 
 ![](assets/ML4PS-agenda.png)
 
