@@ -1,7 +1,9 @@
 <img align="middle" src="https://user-images.githubusercontent.com/7528451/179375181-a9237bc2-db59-4755-9f95-562583544dd8.png" width="200"/> <img align="middle" src="https://user-images.githubusercontent.com/7528451/179375185-7d340f09-2318-46ef-b18a-53b1cbcacafa.png" width="150"/>
 
-### 2022 ICML WiML [Un-workshop](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/) Breakout: Machine Learning for Physical Sciences
-### Objectives
+## 2022 ICML WiML [Un-workshop](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/) Breakout: Machine Learning for Physical Sciences
+
+### Introduction
+Machine learning techniques have been adopted for data selection, data simulation, and model inference in physical sciences [1] including high energy physics, astrophysics, molecular physics, etc. Deep neural networks are employed to probe the fundamental structure of elementary particles at the Large Hadron Collider, explore the extragalactic activities with the Large Synoptic Survey Telescope, and tackle the global climate change problem. The goal of this break-out session is to bring together researchers who are applying machine learning techniques in physical sciences. The discussion will be focused on exchanging experiences, and forging communication and collaboration. Especially, as an interdisciplinary research area, there are special challenges for female researchers. Physical sciences have long been notorious for the gender gap. We would like to take this opportunity to pave for further support programs such as mentor-mentee matching.
 
 ### Agenda
 
@@ -22,8 +24,9 @@
 
 ### References
 
-* Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
-* https://github.com/taolicheng/DL4Physics
+[1] Carleo, Giuseppe, et al. "Machine learning and the physical sciences." Reviews of Modern Physics 91.4 (2019): 045002.
+
+[2] https://github.com/taolicheng/DL4Physics
 
 ### Code of Conduct
 * EDI (Equity, Diversity, and Inclusion) Principles:
