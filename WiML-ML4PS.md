@@ -31,5 +31,5 @@ Machine learning techniques have been adopted for data selection, data simulatio
 [2] https://github.com/taolicheng/DL4Physics
 
 ### Code of Conduct
-* EDI (Equity, Diversity, and Inclusion) Principles:
-* 
+* EDI (Equity, Diversity, and Inclusion) Principles: respect, collegiality, and social justice.
+* WiML [Code of Conduct](https://sites.google.com/wimlworkshop.org/wiml-unworkshop2022/code-of-conduct?authuser=0)
