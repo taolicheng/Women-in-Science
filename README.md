@@ -41,9 +41,9 @@
 
 * Diversity recruitment is not enough. Sexual harassment training is not enough.
 * We need women in authority positions to speak up, to actively support junior females.
-* Start from the beginning: provide equal training oppurtinities for female students; foster better media environment.
+* Start from the beginning: provide equal training opportunities for female students; foster a better media environment.
 * Fight unconscious biases.
-* Sharing is enpowring. Simply sharing experiences with colleagues or experienced professionals helps to overcome difficult situations.
+* Sharing is empowering. Simply sharing experiences with colleagues or experienced professionals helps to overcome difficult situations.
 
 ### Data-driven Approaches
 
@@ -63,8 +63,9 @@
 * [Picture a Scientist, Panel Discussion, Coolidge Corner Theatre](https://www.youtube.com/watch?v=4i33BXH3zM4&ab_channel=thecoolidge)
 * [Bullying in Academia](https://www.youtube.com/watch?v=aIxOhXl8pmg&ab_channel=ScienceRehashed)
 
-## Educational Resources Regarding Research Life
+## Resources Regarding Research Life
 
+* [Scholarships for Women in STEM](www.madisontrust.com/client-resources/articles/scholarships-for-women-in-stem/) (THANKS to the girls with the _STEM Club_ for introducing this link!)
 * Effective Teamwork: https://rework.withgoogle.com/print/guides/5721312655835136/ 
 * How to Protect the Intellectual Property
 * Definition of Workplace Harassment
